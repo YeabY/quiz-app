@@ -1,16 +1,36 @@
-# Quiz_app
+# Simple Quiz App with Timer
 
-A new Flutter project.
+A clean and easy-to-use quiz app built with Flutter. It features multiple-choice questions and a countdown timer for each quiz, helping users test their knowledge under time pressure.
+
+## Features
+
+- Multiple-choice questions  
+- Countdown timer per quiz or question  
+- Real-time score tracking  
+- Responsive and simple UI  
+- Built with Flutter for cross-platform support (iOS & Android)  
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### Prerequisites
 
-A few resources to get you started if this is your first Flutter project:
+- Flutter SDK installed ([Flutter installation guide](https://flutter.dev/docs/get-started/install))  
+- An IDE like VS Code or Android Studio  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Running the App
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/your-username/your-repo-name.git
+   
+2. Navigate to the project directory:
+    ```bash
+    cd your-repo-name
+
+3. Get Flutter dependencies:
+    ```bash
+    flutter pub get
+
+4. Run the app:
+     ```bash          
+     flutter run
